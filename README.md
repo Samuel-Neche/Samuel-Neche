@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuel-neche" alt="samuel-neche" /></a> </p>
 
-- 🔭 I’m currently working on **Sum of even numbers in a set of numbers**
+- 🔭 I’m currently working on **Calculator with JS and My Portfolio**
 
-- 🌱 I’m currently learning **C++, HTML & CSS**
+- 🌱 I’m currently learning **HTML & CSS**
 
 - 👯 I’m looking to collaborate on **Partially Scientific Calculator**
 
-- 💬 Ask me about **Java, C++**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **neche.sdc@gmail.com**
 
-- ⚡ Fun fact **I a a Gamer**
+- ⚡ Fun fact **I am Human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
