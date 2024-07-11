@@ -1,20 +1,20 @@
  <h1 align="center">Hi 👋, I'm Samuel Neche</h1>
 
-<h3 align="center">A passionate fullstack developer from Nigeria</h3>
+<h3 align="center">A passionate Data Scientist from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samuel-neche" alt="samuel-neche" /></a> </p>
 
-- 🔭 I’m currently working on **Calculator with JS and My Portfolio**
+- 🔭 I’m currently working on **Crime Data Analysis and My Portfolio**
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 👯 I’m looking to collaborate on **Partially Scientific Calculator**
+- 👯 I’m looking to collaborate on **A Data Science project**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Power BI**
 
-- 📫 How to reach me **neche.sdc@gmail.com**
+- 📫 How to reach me **work.nechesdc@gmail.com**
 
-- ⚡ Fun fact **I am Human**
+- ⚡ Fun fact **I love data and I love collaboration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
